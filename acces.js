@@ -1,7 +1,7 @@
 {
   "creator": "6283899977000",
-  "secretCode": "Hasbianakbaik",
-  "description": "secretKey for Hasbi.",
+  "secretCode": "XFormy",
+  "description": "secretKey for XFormy.",
   "lastUpdated": "31-05-2025",
   "author": "Hasbi",
   "status": "Active",
