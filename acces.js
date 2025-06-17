@@ -1,6 +1,7 @@
-"creator": "6283899977000",
+{
+  "creator": "6283899977000",
   "secretCode": "XFormy",
-  "description": "gatau.",
+  "description": "gatau",
   "lastUpdated": "31-05-2025",
   "author": "kaska",
   "status": "Active",
@@ -8,6 +9,6 @@
   "version": "5.1.2",
   "Access": [
     "6283899977000"
-
-    ]
-  }
+    
+  ]
+}
