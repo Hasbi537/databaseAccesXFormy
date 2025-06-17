@@ -1,13 +1,17 @@
 {
   "creator": "6283899977000",
-  "secretCode": "XFormy",
-  "description": "gatau",
+  "secretCode": "Hasbianakbaik",
+  "description": "secretKey for Hasbi.",
   "lastUpdated": "31-05-2025",
-  "author": "kaska",
+  "author": "Hasbi",
   "status": "Active",
   "license": "MIT",
   "version": "5.1.2",
   "Access": [
-    "6283899977000"
+    "6283899977000",
+    "6285787579304" 
+    
+    
+    
   ]
 }
